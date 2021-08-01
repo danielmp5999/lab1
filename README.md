@@ -11,12 +11,21 @@ Un Sistema gestor para una farmacia.
 https://vm.tiktok.com/ZMd3ec1JH/
 
 ### Diagrama de Azure
+![Sin título](https://user-images.githubusercontent.com/86995895/127778355-6fdf57df-1437-4f35-9e08-a7843cccddbf.png)
 
 
 ### SLA Compuesto
+Aplicación web estática 99.95%
+Application Gateway 99,95 %
+Azure Active Directory 99,99 %
+Azure Database for MySQL 99,99 %
+Load Balancer 99,99 %
+
+99.95*99.95*99.99*99.99*99.99 = 99.88 %
 
 
 ### TCO 3 años y Precio Total por mes
+
 
 ### Tiempo sin disponibilidad a un año
 
